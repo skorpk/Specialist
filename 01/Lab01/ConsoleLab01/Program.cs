@@ -27,8 +27,8 @@ namespace ConsoleLab01
     {
         static void Main(string[] args)
         {
-            Thread th1 = new Thread(new ThreadClas { ThreadName = "AA", ThreadNumberFrom = 1, ThreadNumberTo = 15 }.ThreadExecute);
-            Thread th2 = new Thread(new ThreadClas { ThreadName = "BB", ThreadNumberFrom = 1, ThreadNumberTo = 20 }.ThreadExecute);
+            Thread th1 = new Thread(new ThreadClas { ThreadName = "AA", ThreadNumberFrom = 1, ThreadNumberTo = 150 }.ThreadExecute);
+            Thread th2 = new Thread(new ThreadClas { ThreadName = "BB", ThreadNumberFrom = 1, ThreadNumberTo = 200 }.ThreadExecute);
 
             th1.Start();
             th2.Start();    
