@@ -1,0 +1,7 @@
+C:\Users\userHomeK\Desktop\Специалист\Lab\01\Lab01\ConsoleLab01\obj\Debug\ConsoleLab01.csproj.AssemblyReference.cache
+C:\Users\userHomeK\Desktop\Специалист\Lab\01\Lab01\ConsoleLab01\obj\Debug\ConsoleLab01.csproj.CoreCompileInputs.cache
+C:\Users\userHomeK\Desktop\Специалист\Lab\01\Lab01\ConsoleLab01\bin\Debug\ConsoleLab01.exe.config
+C:\Users\userHomeK\Desktop\Специалист\Lab\01\Lab01\ConsoleLab01\bin\Debug\ConsoleLab01.exe
+C:\Users\userHomeK\Desktop\Специалист\Lab\01\Lab01\ConsoleLab01\bin\Debug\ConsoleLab01.pdb
+C:\Users\userHomeK\Desktop\Специалист\Lab\01\Lab01\ConsoleLab01\obj\Debug\ConsoleLab01.exe
+C:\Users\userHomeK\Desktop\Специалист\Lab\01\Lab01\ConsoleLab01\obj\Debug\ConsoleLab01.pdb
