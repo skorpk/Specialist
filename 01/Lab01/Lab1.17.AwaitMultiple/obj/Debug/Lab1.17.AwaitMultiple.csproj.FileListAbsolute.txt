@@ -1,0 +1,7 @@
+C:\Users\userHomeK\Desktop\Специалист\Lab\01\Lab01\Lab1.17.AwaitMultiple\bin\Debug\Lab1.17.AwaitMultiple.exe.config
+C:\Users\userHomeK\Desktop\Специалист\Lab\01\Lab01\Lab1.17.AwaitMultiple\bin\Debug\Lab1.17.AwaitMultiple.exe
+C:\Users\userHomeK\Desktop\Специалист\Lab\01\Lab01\Lab1.17.AwaitMultiple\bin\Debug\Lab1.17.AwaitMultiple.pdb
+C:\Users\userHomeK\Desktop\Специалист\Lab\01\Lab01\Lab1.17.AwaitMultiple\obj\Debug\Lab1.17.AwaitMultiple.csproj.AssemblyReference.cache
+C:\Users\userHomeK\Desktop\Специалист\Lab\01\Lab01\Lab1.17.AwaitMultiple\obj\Debug\Lab1.17.AwaitMultiple.csproj.CoreCompileInputs.cache
+C:\Users\userHomeK\Desktop\Специалист\Lab\01\Lab01\Lab1.17.AwaitMultiple\obj\Debug\Lab1.17.AwaitMultiple.exe
+C:\Users\userHomeK\Desktop\Специалист\Lab\01\Lab01\Lab1.17.AwaitMultiple\obj\Debug\Lab1.17.AwaitMultiple.pdb

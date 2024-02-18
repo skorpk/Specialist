@@ -1,0 +1,7 @@
+C:\Users\userHomeK\Desktop\Специалист\Lab\01\Lab01\Lab1_19_Integral\obj\Debug\Lab1_19_Integral.csproj.AssemblyReference.cache
+C:\Users\userHomeK\Desktop\Специалист\Lab\01\Lab01\Lab1_19_Integral\obj\Debug\Lab1_19_Integral.csproj.CoreCompileInputs.cache
+C:\Users\userHomeK\Desktop\Специалист\Lab\01\Lab01\Lab1_19_Integral\bin\Debug\Lab1_19_Integral.exe.config
+C:\Users\userHomeK\Desktop\Специалист\Lab\01\Lab01\Lab1_19_Integral\bin\Debug\Lab1_19_Integral.exe
+C:\Users\userHomeK\Desktop\Специалист\Lab\01\Lab01\Lab1_19_Integral\bin\Debug\Lab1_19_Integral.pdb
+C:\Users\userHomeK\Desktop\Специалист\Lab\01\Lab01\Lab1_19_Integral\obj\Debug\Lab1_19_Integral.exe
+C:\Users\userHomeK\Desktop\Специалист\Lab\01\Lab01\Lab1_19_Integral\obj\Debug\Lab1_19_Integral.pdb

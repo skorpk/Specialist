@@ -1,0 +1,7 @@
+C:\Users\userHomeK\Desktop\Специалист\Lab\01\Lab01\Lab1_18_BinrayBalancedTree\bin\Release\Lab1_18_BinrayBalancedTree.exe.config
+C:\Users\userHomeK\Desktop\Специалист\Lab\01\Lab01\Lab1_18_BinrayBalancedTree\bin\Release\Lab1_18_BinrayBalancedTree.exe
+C:\Users\userHomeK\Desktop\Специалист\Lab\01\Lab01\Lab1_18_BinrayBalancedTree\bin\Release\Lab1_18_BinrayBalancedTree.pdb
+C:\Users\userHomeK\Desktop\Специалист\Lab\01\Lab01\Lab1_18_BinrayBalancedTree\obj\Release\Lab1_18_BinrayBalancedTree.csproj.AssemblyReference.cache
+C:\Users\userHomeK\Desktop\Специалист\Lab\01\Lab01\Lab1_18_BinrayBalancedTree\obj\Release\Lab1_18_BinrayBalancedTree.csproj.CoreCompileInputs.cache
+C:\Users\userHomeK\Desktop\Специалист\Lab\01\Lab01\Lab1_18_BinrayBalancedTree\obj\Release\Lab1_18_BinrayBalancedTree.exe
+C:\Users\userHomeK\Desktop\Специалист\Lab\01\Lab01\Lab1_18_BinrayBalancedTree\obj\Release\Lab1_18_BinrayBalancedTree.pdb

@@ -1,0 +1,7 @@
+C:\Users\userHomeK\Desktop\Специалист\Lab\01\Lab01\Lab1.16.SocketServerMT\bin\Release\Lab1.16.SocketServerMT.exe.config
+C:\Users\userHomeK\Desktop\Специалист\Lab\01\Lab01\Lab1.16.SocketServerMT\bin\Release\Lab1.16.SocketServerMT.exe
+C:\Users\userHomeK\Desktop\Специалист\Lab\01\Lab01\Lab1.16.SocketServerMT\bin\Release\Lab1.16.SocketServerMT.pdb
+C:\Users\userHomeK\Desktop\Специалист\Lab\01\Lab01\Lab1.16.SocketServerMT\obj\Release\Lab1.16.SocketServerMT.csproj.AssemblyReference.cache
+C:\Users\userHomeK\Desktop\Специалист\Lab\01\Lab01\Lab1.16.SocketServerMT\obj\Release\Lab1.16.SocketServerMT.csproj.CoreCompileInputs.cache
+C:\Users\userHomeK\Desktop\Специалист\Lab\01\Lab01\Lab1.16.SocketServerMT\obj\Release\Lab1.16.SocketServerMT.exe
+C:\Users\userHomeK\Desktop\Специалист\Lab\01\Lab01\Lab1.16.SocketServerMT\obj\Release\Lab1.16.SocketServerMT.pdb
