@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\userHomeK\\Desktop\\\u0421\u043F\u0435\u0446\u0438\u0430\u043B\u0438\u0441\u0442\\Lab\\01\\Lab01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA50EA81-D9B9-4884-AB76-89D9873E1372}|Lab2_1_Course\\Lab2_1_Course.csproj|c:\\users\\userhomek\\desktop\\\u0441\u043F\u0435\u0446\u0438\u0430\u043B\u0438\u0441\u0442\\lab\\01\\lab01\\lab2_1_course\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA50EA81-D9B9-4884-AB76-89D9873E1372}|Lab2_1_Course\\Lab2_1_Course.csproj|solutionrelative:lab2_1_course\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA50EA81-D9B9-4884-AB76-89D9873E1372}|Lab2_1_Course\\Lab2_1_Course.csproj|c:\\users\\userhomek\\desktop\\\u0441\u043F\u0435\u0446\u0438\u0430\u043B\u0438\u0441\u0442\\lab\\01\\lab01\\lab2_1_course\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA50EA81-D9B9-4884-AB76-89D9873E1372}|Lab2_1_Course\\Lab2_1_Course.csproj|solutionrelative:lab2_1_course\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA50EA81-D9B9-4884-AB76-89D9873E1372}|Lab2_1_Course\\Lab2_1_Course.csproj|c:\\users\\userhomek\\desktop\\\u0441\u043F\u0435\u0446\u0438\u0430\u043B\u0438\u0441\u0442\\lab\\01\\lab01\\lab2_1_course\\cource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA50EA81-D9B9-4884-AB76-89D9873E1372}|Lab2_1_Course\\Lab2_1_Course.csproj|solutionrelative:lab2_1_course\\cource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA50EA81-D9B9-4884-AB76-89D9873E1372}|Lab2_1_Course\\Lab2_1_Course.csproj|c:\\users\\userhomek\\desktop\\\u0441\u043F\u0435\u0446\u0438\u0430\u043B\u0438\u0441\u0442\\lab\\01\\lab01\\lab2_1_course\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FA50EA81-D9B9-4884-AB76-89D9873E1372}|Lab2_1_Course\\Lab2_1_Course.csproj|solutionrelative:lab2_1_course\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\userHomeK\\Desktop\\\u0421\u043F\u0435\u0446\u0438\u0430\u043B\u0438\u0441\u0442\\Lab\\01\\Lab01\\Lab2_1_Course\\appsettings.json",
+              "RelativeDocumentMoniker": "Lab2_1_Course\\appsettings.json",
+              "ToolTip": "C:\\Users\\userHomeK\\Desktop\\\u0421\u043F\u0435\u0446\u0438\u0430\u043B\u0438\u0441\u0442\\Lab\\01\\Lab01\\Lab2_1_Course\\appsettings.json",
+              "RelativeToolTip": "Lab2_1_Course\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-19T17:08:56.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationContext.cs",
+              "DocumentMoniker": "C:\\Users\\userHomeK\\Desktop\\\u0421\u043F\u0435\u0446\u0438\u0430\u043B\u0438\u0441\u0442\\Lab\\01\\Lab01\\Lab2_1_Course\\ApplicationContext.cs",
+              "RelativeDocumentMoniker": "Lab2_1_Course\\ApplicationContext.cs",
+              "ToolTip": "C:\\Users\\userHomeK\\Desktop\\\u0421\u043F\u0435\u0446\u0438\u0430\u043B\u0438\u0441\u0442\\Lab\\01\\Lab01\\Lab2_1_Course\\ApplicationContext.cs",
+              "RelativeToolTip": "Lab2_1_Course\\ApplicationContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBcAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T16:55:47.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cource.cs",
+              "DocumentMoniker": "C:\\Users\\userHomeK\\Desktop\\\u0421\u043F\u0435\u0446\u0438\u0430\u043B\u0438\u0441\u0442\\Lab\\01\\Lab01\\Lab2_1_Course\\Cource.cs",
+              "RelativeDocumentMoniker": "Lab2_1_Course\\Cource.cs",
+              "ToolTip": "C:\\Users\\userHomeK\\Desktop\\\u0421\u043F\u0435\u0446\u0438\u0430\u043B\u0438\u0441\u0442\\Lab\\01\\Lab01\\Lab2_1_Course\\Cource.cs",
+              "RelativeToolTip": "Lab2_1_Course\\Cource.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T16:54:56.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\userHomeK\\Desktop\\\u0421\u043F\u0435\u0446\u0438\u0430\u043B\u0438\u0441\u0442\\Lab\\01\\Lab01\\Lab2_1_Course\\Program.cs",
+              "RelativeDocumentMoniker": "Lab2_1_Course\\Program.cs",
+              "ToolTip": "C:\\Users\\userHomeK\\Desktop\\\u0421\u043F\u0435\u0446\u0438\u0430\u043B\u0438\u0441\u0442\\Lab\\01\\Lab01\\Lab2_1_Course\\Program.cs",
+              "RelativeToolTip": "Lab2_1_Course\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T16:54:19.543Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

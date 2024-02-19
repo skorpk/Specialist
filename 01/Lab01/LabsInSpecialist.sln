@@ -25,6 +25,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab1_18_BinrayBalancedTree"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab1_19_Integral", "Lab1_19_Integral\Lab1_19_Integral.csproj", "{08355ECF-8E97-422E-BE9C-7CA92571A4B7}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab2_0_EntityFrame", "Lab2_0_EntityFrame\Lab2_0_EntityFrame.csproj", "{7815FBB5-A697-4E42-A1D9-2961B70062C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab2_1_Course", "Lab2_1_Course\Lab2_1_Course.csproj", "{FA50EA81-D9B9-4884-AB76-89D9873E1372}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +79,14 @@ Global
 		{08355ECF-8E97-422E-BE9C-7CA92571A4B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{08355ECF-8E97-422E-BE9C-7CA92571A4B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{08355ECF-8E97-422E-BE9C-7CA92571A4B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7815FBB5-A697-4E42-A1D9-2961B70062C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7815FBB5-A697-4E42-A1D9-2961B70062C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7815FBB5-A697-4E42-A1D9-2961B70062C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7815FBB5-A697-4E42-A1D9-2961B70062C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA50EA81-D9B9-4884-AB76-89D9873E1372}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA50EA81-D9B9-4884-AB76-89D9873E1372}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA50EA81-D9B9-4884-AB76-89D9873E1372}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA50EA81-D9B9-4884-AB76-89D9873E1372}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
